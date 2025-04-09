@@ -1,0 +1,11 @@
+.btn-button {
+    background-color: rgb(64, 116, 230);
+     bottom: 30px;
+     color: aliceblue;
+     padding: 5px;
+     
+    }
+
+   .btn-small{
+    background-color: rgb(0, 255, 128);
+   }
